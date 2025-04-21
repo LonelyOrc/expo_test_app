@@ -1,4 +1,5 @@
 # Welcome to your Expo app 👋
+Building our the tutorial app with some updated views and navigation stack to make it my own while learning react native!
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
