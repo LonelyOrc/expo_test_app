@@ -15,18 +15,18 @@ export default function Index() {
 const styles = StyleSheet.create({ // constant variable of styles
   container: {
     flex: 1,
-    backgroundColor: '#f0fff0', //honeydew
-    alignItems: 'center',
+    backgroundColor: '#25292e',
     justifyContent: 'center',
+    alignItems: 'center',
   },
   text: {
-    color: '#000000', //black
+    color: '#fff', //black
     fontSize: 26,
     fontWeight: 'bold',
   },
   button: {
     fontSize: 20,
     textDecorationLine: "underline",
-    color: '#000000', //black
+    color: '#fff', //black
   }
 });
